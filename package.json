@@ -21,7 +21,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@commitlint/cli": "^19.2.2",
+    "@commitlint/cli": "^19.3.0",
     "@commitlint/config-conventional": "^19.2.2",
     "@nestjs/common": "^10.0.0",
     "@nestjs/core": "^10.0.0",
